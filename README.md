@@ -9,7 +9,7 @@
 
 ## Tecnologias que mais uso no meu dia.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecart22)](https://github.com/zecart22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecart22&theme=blue-green)](https://github.com/zecart22/github-readme-stats)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
