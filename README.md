@@ -18,5 +18,5 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
-Apaixonado por tecnologia e feliz por conceber projetos que ajudam a resolver problemas na vida das pessoas. Em constante aprendizado como Desenvolvedor Front End, estudando Back End e UX/UI Reserch.
+Apaixonado por tecnologia e feliz por conceber projetos que ajudam a resolver problemas na vida das pessoas. Em constante aprendizado como Desenvolvedor Full Stack e UX/UI Designer.
 
